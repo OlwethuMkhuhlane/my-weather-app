@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+NB : allow browser to load unsafe scripts, as this is a safe script to load(just not verified by the browser)
 
 ## Available Scripts
 
